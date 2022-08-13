@@ -10,7 +10,7 @@ Javascript, HTML, CSS, Threejs, nodejs, API building, ...
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joabutt.dev)
-[![Replit]([https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white))](https://replit.com/@AsianDude69)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@AsianDude69)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://joabutt.itch.io)
 
 
