@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @Joab
-- 👀 I’m interested in Html, Javascript and css
-- 🌱 I’m currently learning Css
-- 💞️ I’m looking to collaborate on A discord bot or website
-- 📫 How to reach me Dm Me at Wuff#7128
-- I made a desktop pet, go check it out here!
 
-<!---
-Joabutt/Joabutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a student and i like to build stuff and put it on the internet
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Threejs, nodejs, API building, ...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joabutt.dev)
+[![Threejs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JoabLee3)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on an updated portfolio, and other side projects
+
+🧠 I'm currently learning c# and game developement
+
+💬 Ask me about general coding help between the range of Javascript and C
+
+📫 How to reach me... Email me at  joab@programmer.net
+
+😄 Pronouns... he/him
+
+⚡️ Fun fact... I started coding from nodejs making discord bots with discord.js
+
