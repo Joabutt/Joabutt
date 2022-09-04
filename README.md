@@ -27,3 +27,5 @@ Javascript, HTML, CSS, Threejs, nodejs, API building, ...
 
 ⚡️ Fun fact... I started coding from nodejs making discord bots with discord.js
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
