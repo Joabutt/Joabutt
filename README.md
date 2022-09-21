@@ -17,7 +17,7 @@ Javascript, HTML, CSS, Threejs, nodejs, API building, ...
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on an updated portfolio, and other side projects
 
-🧠 I'm currently learning c# and game developement
+🧠 I'm currently learning about Stable Diffusion and how to implement it.
 
 💬 Ask me about general coding help between the range of Javascript and C
 
