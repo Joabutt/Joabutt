@@ -27,10 +27,12 @@ I'm a student and i like to build stuff and put it on the internet
 
 ⚡️ Fun fact... I started coding from nodejs making discord bots with discord.js
 
+## 📫 Contact Me
+
+How to reach me: me@joabutt.dev
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/805735852331499541)](https://discord.com/users/805735852331499541)
+
 ## 😂 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-
