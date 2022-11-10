@@ -5,7 +5,7 @@ I'm a student and i like to build stuff and put it on the internet
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Threejs, nodejs, API building, ...
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cloudflare,deno,bots,electron,raspberrypi,unity,vite)](https://skillicons.dev)
 
 
 ## 🔗 Links
