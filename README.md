@@ -6,7 +6,7 @@ I'm a student and i like to build stuff and put it on the internet
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,cloudflare,deno,bots,electron,raspberrypi,unity,vite)](https://skillicons.dev)
-[![wakatime](https://wakatime.com/badge/user/8f8c76d4-ffd5-4b4e-aa4a-0a8432d239ea/project/aa707e21-c5b8-48b4-bb16-cd9dc709d487.svg)](https://wakatime.com/badge/user/8f8c76d4-ffd5-4b4e-aa4a-0a8432d239ea/project/aa707e21-c5b8-48b4-bb16-cd9dc709d487)
+[![wakatime](https://wakatime.com/badge/user/8f8c76d4-ffd5-4b4e-aa4a-0a8432d239ea/project/aa707e21-c5b8-48b4-bb16-cd9dc709d487.svg)
 
 
 ## 🔗 Links
