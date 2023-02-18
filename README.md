@@ -1,5 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there
 I'm a student based in Singapore. I like to build stuff and put it on the internet 🤡
+<a href="https://app.daily.dev/joabutt"><img src="https://api.daily.dev/devcards/6499d6715d0842f186de1830b87653b2.png?r=igc" width="400" alt="Joab Lee's Dev Card"/></a>
 
 
 
