@@ -18,7 +18,7 @@ I'm a student based in Singapore. I like to build stuff and put it on the intern
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on an updated portfolio, and other side projects
 
-🧠 I'm currently learning about Stable Diffusion and how to implement it.
+🧠 I'm currently learning about how to make games, and voxel art
 
 💬 Ask me about general coding help between the range of Javascript and C
 
