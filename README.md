@@ -37,3 +37,7 @@ How to reach me: me@joabutt.dev
 ## 😂 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/?username=joabutt&layout=compact&theme=tokyonight)
