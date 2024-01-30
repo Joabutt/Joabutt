@@ -22,7 +22,7 @@ I'm a student based in Singapore. I like to build stuff and put it on the intern
 
 💬 Ask me about general coding help between the range of Javascript and C
 
-📫 How to reach me... Email me at  joab@programmer.net
+📫 How to reach me... Email me at  me@joabutt.dev
 
 😄 Pronouns... he/him
 
