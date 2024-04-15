@@ -40,4 +40,13 @@ How to reach me: me@joabutt.dev
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=joabutt&layout=compact&theme=tokyonight)
+
+|                                                                     Joabutt's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Joabutt's github stats](https://github-readme-stats.vercel.app/api?username=joabutt&show_icons=true&theme=algolia)              | 
+| ![Joabutt's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joabutt&theme=algolia)                    | 
+    
+
+|                                                                                                      Joabutt's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=joabutt&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joabutt&langs_count=8&theme=algolia&layout=compact) |
