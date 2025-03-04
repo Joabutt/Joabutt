@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there
-I'm a student based in Singapore. I like to build stuff and put it on the internet 🤡
+I'm a Fourth Year student based in Singapore, currently studying computing and electronics.
 
 
 
@@ -10,7 +10,7 @@ I'm a student based in Singapore. I like to build stuff and put it on the intern
 
 
 ## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joabutt.dev)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joabl.ee)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@joabutt)
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://joabutt.itch.io)
 
@@ -22,7 +22,7 @@ I'm a student based in Singapore. I like to build stuff and put it on the intern
 
 💬 Ask me about general coding help between the range of Javascript and C
 
-📫 How to reach me... Email me at  me@joabutt.dev
+📫 How to reach me... Email me at  me@joabl.ee
 
 😄 Pronouns... he/him
 
@@ -30,7 +30,7 @@ I'm a student based in Singapore. I like to build stuff and put it on the intern
 
 ## 📫 Contact Me
 
-How to reach me: me@joabutt.dev
+How to reach me: me@joabl.ee
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/805735852331499541)](https://discord.com/users/805735852331499541)
 
